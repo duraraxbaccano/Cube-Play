@@ -1,0 +1,5 @@
+
+    <resources>
+        <dimen name="buttonPadding">5dp</dimen>
+        <dimen name="seeklength">300dp</dimen>
+    </resources>

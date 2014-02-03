@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">CubePlay</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">CubePlay</string>
+    <string name="resetTitle">Re</string>
+    <string name="normal">normal</string>
+    <string name="viewrx">X Axis</string>
+    <string name="viewrtitle">View Rotate</string>
+    <string name="viewry">Y Axis</string>
+    <string name="viewrz">Z Axis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cube_logo">CubeLogo</string>
+
+</resources>
